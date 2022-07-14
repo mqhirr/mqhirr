@@ -2,12 +2,9 @@
 
 # Welcome
 #### What do I do?
-I develop software which can be related to the games I play. </br>
-My main focus is (as of now) Growtopia in particular. </br>
-My new project is [Quark](https://github.com/mqhirr/Quark) make sure to give it a visit
+I use C++ to make apps, utilities and more. </br>
 #### Experiences:
-I have knowledge about c/c++ & python </br>
-2 years of linux but i still suck at it
-#### My personal Discord server
-Join it [here](https://discord.gg/myQ3s7DaKQ)
+I have knowledge about C/C++, C# and Python
+#### Discord Account
+mqhirr#1337 (the leet tag is for a joke, i use it ironically)
 </br>
